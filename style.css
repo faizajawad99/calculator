@@ -1,0 +1,20 @@
+.main{
+    border: 2px solid purple;
+    width: 250px;
+    margin: 0 auto;
+}
+.result{
+    width: 98%;
+    background-color: purple;
+    color: black;
+}
+.btn{
+    background-color: purple;
+    width: 45px;
+    margin: 5px;
+}
+.btn2{
+    background-color: purple;
+    width: 97px;
+    margin-top: 5px;
+}
